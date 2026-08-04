@@ -1,0 +1,15 @@
+{
+  "schema": "razzo.public-worker-status.v1",
+  "state": "started",
+  "workflowRunId": "30938310406",
+  "cycleId": "razzo-acf70306d7a7",
+  "workItemId": "80f55547f1c3b84f89092796",
+  "shard": "razzo-shard-0024",
+  "projectId": "project-giovanni",
+  "repository": "giovannifidel-collab/project-giovanni",
+  "exactInputSha": "0cec483667809d44e72f8e4e514f46cd29399379",
+  "observedSha": null,
+  "durationSeconds": null,
+  "error": null,
+  "updatedEpoch": 1785867761.8468451
+}
