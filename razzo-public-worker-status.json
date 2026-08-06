@@ -1,18 +1,18 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "completed",
-  "workflowRunId": "30960437676",
-  "cycleId": "razzo-9fc39d8816c4",
-  "generationId": "razzo-9fc39d8816c4:g1",
-  "workItemId": "665073ee172ed2d52cb8df8b",
+  "state": "started",
+  "workflowRunId": "31106684573",
+  "cycleId": "razzo-97d202b8af66",
+  "generationId": "razzo-97d202b8af66:g1",
+  "workItemId": "dbe4a698d583edaacf9309f5",
   "shard": "razzo-shard-0024",
   "projectId": "family-cloud",
   "repository": "giovannifidel-collab/family-cloud",
   "title": "Family Cloud TypeScript exact-SHA gate",
   "kind": "verification",
-  "exactInputSha": "6b9cdfc6e865204a490456688c55e1d61c5ced41",
-  "observedSha": "6b9cdfc6e865204a490456688c55e1d61c5ced41",
-  "durationSeconds": 5.548,
+  "exactInputSha": "b99fd32f296cd323ffd8ad59bf0e335d20fcae73",
+  "observedSha": null,
+  "durationSeconds": null,
   "error": null,
-  "updatedEpoch": 1785886474.514989
+  "updatedEpoch": 1786023367.9624069
 }
