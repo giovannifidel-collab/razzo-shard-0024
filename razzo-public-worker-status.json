@@ -1,6 +1,6 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "started",
+  "state": "completed",
   "workflowRunId": "31106684573",
   "cycleId": "razzo-97d202b8af66",
   "generationId": "razzo-97d202b8af66:g1",
@@ -11,8 +11,8 @@
   "title": "Family Cloud TypeScript exact-SHA gate",
   "kind": "verification",
   "exactInputSha": "b99fd32f296cd323ffd8ad59bf0e335d20fcae73",
-  "observedSha": null,
-  "durationSeconds": null,
+  "observedSha": "b99fd32f296cd323ffd8ad59bf0e335d20fcae73",
+  "durationSeconds": 8.623,
   "error": null,
-  "updatedEpoch": 1786023367.9624069
+  "updatedEpoch": 1786023378.5120895
 }
