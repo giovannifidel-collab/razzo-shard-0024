@@ -1,0 +1,66 @@
+{
+  "fileCount": 7457,
+  "gitMetadataGiB": 0.176,
+  "privateGioSourcePresent": false,
+  "publicInputsOnly": true,
+  "repository": "https://github.com/crdroidandroid/android_packages_apps_Settings.git",
+  "requestedRef": "14.0",
+  "resolvedSha": "7cbd852332230e4a60840f5fb8d3979817582aeb",
+  "schema": "gio.os.public-source-probe.v1",
+  "signingKeysPresent": false,
+  "targetMaxGiB": 12.5,
+  "taskId": "settings",
+  "topDirectories": [
+    {
+      "kib": 88336,
+      "path": "res"
+    },
+    {
+      "kib": 38176,
+      "path": "tests"
+    },
+    {
+      "kib": 23424,
+      "path": "src"
+    },
+    {
+      "kib": 8996,
+      "path": "res-product"
+    },
+    {
+      "kib": 700,
+      "path": "libs"
+    },
+    {
+      "kib": 344,
+      "path": "color-check-baseline.xml"
+    },
+    {
+      "kib": 284,
+      "path": "AndroidManifest.xml"
+    },
+    {
+      "kib": 116,
+      "path": "aconfig"
+    },
+    {
+      "kib": 60,
+      "path": "res-export"
+    },
+    {
+      "kib": 28,
+      "path": "protos"
+    },
+    {
+      "kib": 12,
+      "path": "NOTICE"
+    },
+    {
+      "kib": 8,
+      "path": "Android.bp"
+    }
+  ],
+  "withinTarget": true,
+  "workingSetGiB": 0.329,
+  "workingSetKiB": 345504
+}
